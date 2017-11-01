@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exploring-kotlin-coroutines.iml" filepath="$PROJECT_DIR$/.idea/modules/exploring-kotlin-coroutines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exploring-kotlin-coroutines_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exploring-kotlin-coroutines_main.iml" group="exploring-kotlin-coroutines" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exploring-kotlin-coroutines_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exploring-kotlin-coroutines_test.iml" group="exploring-kotlin-coroutines" />
+    </modules>
+  </component>
+</project>
